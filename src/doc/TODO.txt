@@ -1,3 +1,7 @@
+shield + elasticsearch for authentication
+marvel configuration for shield
+spring data shield
+
 1. 
 2. spring-boot-sample-cache
 https://github.com/spring-projects/spring-boot/tree/master/spring-boot-samples/spring-boot-sample-cache
